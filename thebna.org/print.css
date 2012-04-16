@@ -1,0 +1,133 @@
+/*
+
+------------------------------------------------------
+Copyright Tim Isenheim, tim@fresh-labs.de
+some rights reserved
+http://creativecommons.org/licenses/by-sa/2.0/
+
+You are free to use this style sheet and its
+associated image files to create your own site.
+However, we ask that you respect the template's
+creator by maintaining this attribution in
+the style sheet.
+
+1. This is a print style sheet to be used together with
+its associated screen style sheet martinique.css.
+------------------------------------------------------
+
+*/
+
+@page { 
+margin: 30mm;
+size: portrait;
+}
+
+body, html {
+font-family: Georgia, "Times New Roman", Times, serif;
+font-size: 3mm;
+margin: 0 auto;
+width: 170mm;
+}
+
+#banner {
+position: relative;
+font: 3.2em Georgia, "Times New Roman", Times, serif;
+font-weight: bold;
+color: #999999;
+line-height: 8mm;
+width: 170mm;
+margin: 0 auto;
+padding: 0;
+border-bottom: 1mm solid #ccc;
+}
+
+#banner p {
+padding: 0;
+margin: 0 0 2mm 0;
+}
+
+a {
+font-weight: bold;
+text-decoration: none;
+color: #000000;
+}
+
+ul {
+margin: 0;
+padding: 0;
+}
+
+#container {
+margin: 7mm auto 0 auto;
+padding: 0;
+width: 170mm;
+text-align: left;
+}
+
+#content {
+margin: 0;
+padding: 0;
+width: 100%;
+}
+
+#content p {
+font-size: 1.1em;
+line-height: 4mm;
+text-align: justify;
+page-break-before: auto;
+page-break-inside: avoid;
+margin: 6mm 0 0 5mm;
+padding: 0 0 0 3mm;
+border-left: 0.5mm solid #999999;
+width: 70%;
+}
+
+/* re-align word-spacing next to links */
+
+a {
+padding: 0 1mm 0 0;
+}
+
+h1, h2, h3 {
+font: 1.8em Georgia, "Times New Roman", Times, serif;
+color: #333333;
+text-transform: uppercase;
+font-weight: bold;
+padding: 0 2mm 0 0;
+margin: 4mm 0 -5mm 2mm;
+page-break-after: avoid;
+}
+
+.youarehere {
+font: 1.1em Georgia, "Times New Roman", Times, serif;
+color: #999999;
+visibility: visible;
+padding: 0 0 0 2.7mm;
+text-transform: uppercase;
+position: absolute;
+font-weight: bold;
+top: 10.5mm;
+margin: 0;
+}
+
+#nav-main, #nav-section {
+font-size: 1.4em;
+font-weight: bold;
+}
+
+#info-company {
+visibility: visible;
+margin: 0;
+}
+
+#nav-toplevel, #nav-meta, #nav-main, #info-site, #nav-supp, #nav-section {
+visibility: hidden;
+}
+
+#nav-toplevel, #nav-supp {
+display: none;
+}
+
+#nav-section {
+height: 4mm;
+}

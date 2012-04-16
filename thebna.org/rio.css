@@ -1,0 +1,274 @@
+/* And I think I will travel to Rio */
+
+/*
+
+------------------------------------------------------
+Copyright Jan Brasna, http://www.alphanumeric.cz/
+some rights reserved
+http://creativecommons.org/licenses/by-sa/2.0/
+
+You are free to use this style sheet and its
+associated image files to create your own site.
+However, we ask that you respect the template's
+creator by maintaining this attribution in
+the style sheet.
+------------------------------------------------------
+
+*/
+
+body {
+background: url('img/bg.png') center repeat-y #69842e;
+font: 75%/1.2 verdana, lucida, sans-serif;
+margin: 0;
+padding: 0;
+color: #333;
+text-align: center;
+}
+
+
+h1, h2, h3 {
+font-family: "Trebuchet MS", "Geneva CE", lucida, sans-serif;
+color: #69842e;
+background: url('img/head-dec.png') right no-repeat;
+}
+
+h1 {
+font-size: 220%;
+letter-spacing: -0.08em;
+}
+
+h2 {
+font-size: 170%;
+letter-spacing: -0.05em;
+}
+
+h3 {
+font-size: 150%;
+}
+
+p, ul {
+margin: 0;
+}
+
+a, hr {
+color: #48632e;
+}
+
+
+a:hover {
+color: #b6c36d;
+background: #48632e;
+text-decoration: none;
+}
+
+a:visited {
+color: #69842e
+}
+
+#banner {
+background: url('img/bg-head.png') center repeat-y #ffc600;
+margin: 0;
+padding: 0 0 30px 0;
+position: relative;
+overflow: hidden;
+}
+
+#banner p {
+margin: 0 auto;
+padding: 15px 0 0 0;
+text-align: right;
+width: 600px;
+font: 380%/1.2 "Trebuchet MS", "Geneva CE", lucida, sans-serif;
+color: #69842e;
+font-weight: bold;
+letter-spacing: -0.08em;
+}
+#banner img{
+	
+	
+}
+
+#nav-toplevel {
+margin: 0 auto;
+padding: 0;
+text-align: left;
+position: relative;
+width: 600px;
+}
+
+#nav-meta {
+margin: 0 auto;
+position: relative;
+width: 80px;
+top: -10px;
+left: 260px;
+}
+
+#nav-meta ul {
+list-style: none;
+margin: 10px;
+height: 0px;
+}
+
+#nav-meta a {
+display: block;
+width: 26px;
+height: 18px;
+position: absolute;
+}
+
+#nav-meta span {
+display: block;
+width: 0;
+height: 0;
+overflow: hidden;
+}
+
+#nav-meta #skip a {
+width: 0;
+height: 0;
+}
+
+#nav-meta #cont a {
+background: url('img/nav-cont.gif') no-repeat;
+left: 0;
+}
+
+#nav-meta #sear a {
+background: url('img/nav-sear.gif') no-repeat;
+left: 28px;
+}
+
+#nav-meta #smap a {
+background: url('img/nav-smap.gif') no-repeat;
+left: 54px;
+}
+
+#container {
+width: 680px;
+margin: 0 auto;
+padding: 0;
+text-align: left;
+position: relative;
+top: -42px;
+}
+
+#nav-main {
+width: 680px;
+height: 80px;
+background: url('img/bg-header.png') no-repeat;
+margin: 0 auto;
+padding: 0;
+text-align: left;
+position: relative;
+}
+
+#nav-main ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	width: 680px;
+	overflow: hidden;
+	position: absolute;
+	bottom: 6px;
+	left: 27px;
+}
+
+#nav-main li, #nav-meta li {
+display: inline;
+}
+
+#nav-main a {
+display: block;
+float: left;
+padding: 10px;
+margin-left: 1px;
+background: url('img/bg-menu.png') bottom repeat-x #879d58;
+color: #ffc600;
+text-decoration: none;
+font-weight: bold;
+font-size: 120%;
+}
+
+#nav-main a:hover {
+background: url('img/bg-menu-on.png') bottom repeat-x #69842e;
+}
+
+#nav-main a.current {
+background: url('img/bg-menu-ac.png') bottom repeat-x #394f11;
+}
+
+#content {
+background: url('img/main-bot.png') bottom no-repeat #b6c36d;
+margin: 20px 190px 0 10px;
+padding: 0.2em 2em 2em 2em;
+}
+
+#content-anchor {
+background: url('img/main-top.png') top no-repeat #b6c36d;
+display: block;
+position: absolute;
+top: 100px;
+left: 10px;
+width: 480px;
+height: 10px;
+}
+
+#nav-subs {
+	position: absolute;
+	top: 199px;
+	left: 493px;
+	width: 170px;
+	background: url('img/side-top.png') top no-repeat #69842e;
+}
+
+#nav-subs ul {
+margin: 1.5em 1.5em 0 1.5em;
+padding: 0;
+list-style: none;
+}
+
+#nav-subs li {
+background: url('img/side-bul.png') left no-repeat;
+padding-left: 12px;
+}
+
+#nav-subs a {
+color: #b6c36d;
+text-decoration: none;
+}
+
+#nav-subs .youarehere {
+color: #b6c36d;
+background: #48632e;
+text-decoration: none;
+}
+
+#nav-section {
+padding:.5em,0em,0em;	
+background: url('img/side-mid.png') bottom no-repeat;
+padding-bottom: 2.5em;
+}
+
+#nav-supp {
+background: url('img/side-bot.png') bottom no-repeat;
+padding-bottom: 1.5em;
+}
+
+#info-site {
+background: url('img/bg-foot.png') center repeat-y #ffc600;
+margin: 0;
+padding: 1em;
+font-size: 85%;
+color: #bf8c01;
+}
+
+#info-site a {
+color: #bf8c01;
+text-decoration: none;
+}
+
+#info-site a:hover {
+color: #ffc600;
+background: #bf8c01;
+}

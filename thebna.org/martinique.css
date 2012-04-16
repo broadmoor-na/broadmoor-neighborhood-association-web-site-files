@@ -1,0 +1,289 @@
+/* Vive le Caribbean! */
+
+/*
+
+------------------------------------------------------
+Copyright Tim Isenheim, tim@fresh-labs.de
+some rights reserved
+http://creativecommons.org/licenses/by-sa/2.0/
+
+You are free to use this style sheet and its
+associated image files to create your own site.
+However, we ask that you respect the template's
+creator by maintaining this attribution in
+the style sheet.
+
+1. This style sheet uses the Tantek Box Model Hack
+(voice-family etc). Read more about this hack here:
+http://www.tantek.com/CSS/Examples/boxmodelhack.html
+------------------------------------------------------
+
+*/
+
+body, html {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	background-image: url(img/blue-rain-bg.jpg);
+	
+}
+#page-background {position:fixed; top:0; left:0; width:100%; height:100%;z-index:-1;}
+/**** html-Tags ****/
+
+h1, h2, h3 {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 1.1em;
+//color: #ffffff;
+background: url(images/h1.gif) no-repeat;
+width: 95%;
+height: 21px;
+line-height: 22px;
+margin: 0;
+padding: 0 0 0 10px;
+}
+
+a {
+color: #147;
+}
+
+/**** layout ****/
+
+/* banner */
+
+#banner {
+font: normal 1.6em Georgia, "Times New Roman", Times, serif;
+background: url(images/air.gif) no-repeat;
+color: #ffffff;
+margin: 0 auto;
+width: 700px;
+height: 170px;
+}
+
+#banner p {
+text-align: left;
+padding: 100px 0 0 10px;
+margin: 0;
+}
+
+/* nav-toplevel */
+
+#nav-toplevel {
+margin: 0 auto;
+padding: 0;
+width: 700px;
+}
+
+#nav-toplevel ul {
+list-style-type: none;
+list-style-image: none;
+margin: 0;
+padding: 0;
+background-color: #dedede;
+}
+
+#nav-toplevel li {
+display: inline;
+margin: 0;
+padding: 0;
+}
+
+#nav-toplevel li a {
+text-decoration: none;
+}
+
+/* nav-main */
+
+#nav-main {
+border-top: 1px solid #333;
+border-bottom: 1px solid #333;
+border-left: 2px solid #596591;
+border-right: 2px solid #596591;
+text-align: left;
+font-size: 0.7em;
+padding: 0;
+margin: 0;
+}
+
+#nav-main li {
+margin: 0 -4px 0 0;
+text-align: left;
+line-height: 23px;
+}
+
+#nav-main li a {
+text-transform: capitalize;
+font-weight: bold;
+padding: 0.45em 0.8em 0.45em 0.8em;
+border-right: 1px solid #333333;
+}
+
+#nav-main li a:hover {
+background-color: #ff5008;
+color: #ffffff;
+}
+
+li .current {
+background-color: #596591;
+color: #ffffff;
+}
+
+/* nav-meta */
+
+#nav-meta {
+font: normal 0.6em Verdana, Arial, Helvetica, sans-serif;
+text-align: right;
+border-left: 2px solid #596591;
+border-right: 2px solid #596591;
+margin: 0;
+padding: 0;
+}
+
+#nav-meta li a {
+padding: 1px;
+}
+
+#nav-meta li a:hover {
+background: #000;
+color: #fff;
+}
+
+/* container-content */
+
+#container {
+position:relative; z-index:1; padding:10px;
+text-align: left;
+background-color:#dddddd;
+position: relative;
+margin: 0 auto;
+padding: 8px 0 8px 0;
+border-left: 2px solid #596591;
+border-right: 2px solid #596591;
+width: 700px;
+voice-family: "\"}\"";
+voice-family:inherit;
+width: 696px;
+}
+
+html>body #container {
+width: 696px;
+}
+
+#content {
+clear: both;
+text-align: left;
+font-size: 0.7em;
+line-height: 1.2em;
+width: 530px;
+height: 500px;
+overflow: auto;
+margin: 0px;
+padding: 5px 0 0 5px;
+}
+
+#content a {
+text-decoration: underline;
+}
+
+#content p, #content ol, #content ul {
+width: 98%;
+line-height: 1.6em;
+padding: 8px 0 0 8px;
+margin: 0;
+}
+
+#content li {
+margin-left: 25px;}
+
+#content a:hover {
+background-color: #ff5008;
+color: #ffffff;
+text-decoration: none;
+}
+
+/* subnavs */
+
+#nav-subs {
+text-align: left;
+font-size: 0.7em;
+position: absolute;
+background: #889BDE;
+border-left: 2px solid #596591;
+left: 550px;
+height: 521px;
+top: 0;
+margin: 0;
+width: 146px;
+voice-family: "\"}\"";
+voice-family:inherit;
+width: 144px;
+}
+
+#nav-subs ul {
+margin: 1.5em 1.5em 0 1.5em;
+padding: 0;
+list-style: none;
+}
+
+#nav-subs li {
+background: url('img/side-bul-blu.png') left no-repeat;
+padding-left: 12px;
+}
+
+#nav-subs a {
+//color: #b6c36d;
+text-decoration: none;
+}
+
+#nav-subs a:hover {
+color: #fff;
+text-decoration: none;
+}
+
+#nav-subs .youarehere {
+color: #b6c36d;
+background: #48632e;
+text-decoration: none;
+}
+
+#nav-section {
+padding:.5em,0em,0em;	
+//background: url('img/side-mid.png') bottom no-repeat;
+padding-bottom: 2.5em;
+}
+
+#nav-supp {
+//background: url('img/side-bot.png') bottom no-repeat;
+padding-bottom: 1.5em;
+}
+
+/* footer */
+
+#info-site {
+font: 9px "small fonts", Verdana, Arial, Helvetica, sans-serif;
+background: url(images/footer.gif);
+color: #cccccc;
+text-align: right;
+line-height: 1.9em;
+width: 700px;
+height: 20px;
+margin: 0 auto;
+padding: 0;
+}
+
+#info-site a {
+color: #cccccc;
+}
+
+#info-site a:hover {
+color: #ffffff;
+background: #ff5008;
+}
+
+#info-site p {
+padding-right: 15px;
+}
+
+#info-company, #info-standards {
+display: inline;
+}
