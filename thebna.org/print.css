@@ -30,15 +30,7 @@ width: 170mm;
 }
 
 #banner {
-position: relative;
-font: 3.2em Georgia, "Times New Roman", Times, serif;
-font-weight: bold;
-color: #999999;
-line-height: 8mm;
-width: 170mm;
-margin: 0 auto;
-padding: 0;
-border-bottom: 1mm solid #ccc;
+visibility: hidden;
 }
 
 #banner p {
