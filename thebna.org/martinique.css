@@ -13,14 +13,21 @@ the style sheet.
 http://www.tantek.com/CSS/Examples/boxmodelhack.html */
 
 body, html {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
-	text-align: center;
-	margin: 0;
-	padding: 0;
-	background-image: url(img/blue-rain-bg.jpg);
-	
+font-family: Verdana, Arial, Helvetica, sans-serif;
+text-align: center;
+margin: 0;
+padding: 0;
+background-image: url(img/blue-rain-bg.jpg);
 }
-#page-background {position:fixed; top:0; left:0; width:100%; height:100%;z-index:-1;}
+
+#page-background {
+position:fixed; 
+top:0; 
+left:0; 
+width:100%; 
+height:100%;
+z-index:-1;
+}
 
 h1, h2, h3 {
 font-family: Verdana, Arial, Helvetica, sans-serif;
