@@ -6,11 +6,7 @@ You are free to use this style sheet and its
 associated image files to create your own site.
 However, we ask that you respect the template's
 creator by maintaining this attribution in
-the style sheet.
-
-1. This style sheet uses the Tantek Box Model Hack
-(voice-family etc). Read more about this hack here:
-http://www.tantek.com/CSS/Examples/boxmodelhack.html */
+the style sheet. */
 
 body, html {
 font-family: Verdana, Arial, Helvetica, sans-serif;
@@ -194,8 +190,6 @@ height: 521px;
 top: 0;
 margin: 0;
 width: 146px;
-voice-family: "\"}\"";
-voice-family:inherit;
 width: 144px;
 }
 
