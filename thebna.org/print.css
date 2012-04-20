@@ -29,6 +29,10 @@ margin: 0 auto;
 width: 170mm;
 }
 
+#page-background {
+visibility: hidden;
+}		
+	
 #banner {
 visibility: hidden;
 }
