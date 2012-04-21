@@ -1,0 +1,5 @@
+<!--#include virtual="header.html" -->
+<div id="content"><a id="content-anchor" name="content"></a>
+   <img src="../images/beaconLogo.jpg" alt="" width="500" height="104" /><br />
+  </div>
+<!--#include virtual="nav-subs.html" -->
