@@ -1,0 +1,79 @@
+<!--#include virtual="header.html" -->
+<div id="content"><a id="content-anchor" name="content"></a>
+    <center>
+      <div id="content2">
+        <div align="center">
+          <h1>
+            <center>
+              <h1>COMMUNITY INFORMATION</h1>
+              <table  border="1" cellpadding="7">
+          
+                <tr>
+                  <td><h2>Information on the 
+                    Sewer Lateral Work:</h2>
+                      <p>&nbsp;</p>
+                    <p><a href="http://joycegross.com/tmp/sewer/">http://joycegross.com/tmp/sewer/</a></p></td>
+                </tr>
+                <tr>
+                  <td valign="top"><h2>San Leandro Police Department</h2> 
+                    <br />
+                     <h3> Crime Statistics for the Broadmoor Neighborhood</font>
+                      </p>
+                    </h3>
+                  
+                        <p>Click <strong><a href="http://www.sanleandro.org/depts/pd/crime/statistics.asp" target="_blank">HERE</a></strong> for the San Leandro Police Department Crime Statistics web site <br />
+                        </p>
+                      </td>
+                </tr>
+                <tr>
+                  <td valign="top"><h2><font size="4"><strong>Neighbor
+                    to Neighbor Program</strong></font></h2>
+                      <blockquote>
+                        <p>Tools For Holding Meetings With Your Neighbors</p>
+                        <ul>
+                          <li>Click <strong><a href="../ppt/The_BNA_Neighbor_To_Neighbor.pdf">HERE</a></strong> for
+                            Adobe Acrobat &copy; PDF document <font size="2">(1MB)</font></li>
+                        </ul>
+                        <ul>
+                          <li>Click <a href="../ppt/Neighbor%20To%20Neighbor.mht"><strong>HERE</strong></a> for
+                            Microsoft PowerPoint &copy; presentation <font size="2"><br />
+                              (1.5MB,
+                              Requires Microsoft Explorer and ActiveX)</font></li>
+                        </ul>
+                      </blockquote></td>
+                </tr>
+                <tr>
+                  <td valign="top"><div align="left">
+                      <h2>Neighborhood trash pick-ups</h2>
+                    <br />
+                      <a href="http://www.alamedacountyindustries.com/" target="_blank">Alameda 
+                        County Industries</a> no longer does a neighborhood trash pick-up. 
+                    However, Alameda County Industries (the garbage collectors) 
+                    allows its customers to individually schedule a pick-up of unwanted 
+                    items once a year. It is collected on your normal garbage pick-up 
+                    day and must be requested two weeks ahead of time. Just call 
+                    Alameda County Industries at 357-7282 to schedule your pickup.
+                    </p>
+                          <hr align="center" width="80%" color="#669966" />
+                          <p align="center">If you have news or information of interest 
+                            to the BNA community, <br />
+                            please click
+                            <script type="text/javascript">
+document.write (MakeEmailAddressLink ('org', 'thebna', 'webmaster', 'HERE', 'Subject - Community Information', '')); 
+                      </script>
+                            to send and e-mail to the BNA webmaster.</p>
+                  </div>
+                      <blockquote>
+                        <div align="left">
+                          <div align="left"></div>
+                        </div>
+                      </blockquote></td>
+                </tr>
+              </table>
+            </center>
+          </h1>
+        </div>
+      </div>
+    </center>
+  </div>
+<!--#include virtual="nav-subs.html" -->
