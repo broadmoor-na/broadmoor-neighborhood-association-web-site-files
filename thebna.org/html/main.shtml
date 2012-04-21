@@ -1,18 +1,16 @@
 <!--#include virtual="header.html" -->
-  <div id="container">
     <div id="content">
       <center>
         <img src="../images/_5301095.jpg" alt="" width="305" height="150" />
       </center>
 
-      <p><u><a href="about.html">The Broadmoor</a></u> is a
-		 distinctive
+      <p><u><a href="about.shtml">The Broadmoor</a></u> is a distinctive
       neighborhood in the beautiful North Area of San Leandro, California. The Broadmoor
       Neighborhood Association (The BNA) promotes the social welfare of the people who
       live, work, or own property (residential or commercial) within the neighborhood.
       The BNA pursues this goal by:
 	  <ul><li>Distributing an informational <u><a href=
-      "beaconArchive.html">newsletter</a></u> on a regular
+      "beaconArchive.shtml">newsletter</a></u> on a regular
 		 basis.</li>
 	  <li>Addressing
       governmental institutions on matters of concern to the
@@ -21,7 +19,7 @@
       with local police and fire departments on matters of public
 	  safety.</li><li>Organizing
       social functions to help neighbors get to know each other and foster a sense of
-      community.</li></ul><br/><a href="join.htm"><u>Membership in The BNA</u></a>
+      community.</li></ul><br/><a href="join.shtml"><u>Membership in The BNA</u></a>
       is open to anyone who wishes to support these endeavors.</p>
 
       <p>The BNA Board of Directors currently meets the 2nd Tuesday of the month at:</p><br/>
