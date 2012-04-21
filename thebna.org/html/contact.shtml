@@ -1,28 +1,28 @@
 <!--#include virtual="header.html" -->
-    <div id="content" align="center">
+    <div id="content">
             <p><font size="4">BNA Contact Information</font><br />
             <font size="2"><i>Click any link to email:</i></font></p>
 		 <br/>
-            <p align="center"><strong><a href="mailto:board@thebna.org">The Entire BNA
+            <p ><strong><a href="mailto:board@thebna.org">The Entire BNA
             Board</a></strong></p>
 		 <br/>
 
-            <p align="center"><strong><a href="mailto:president@thebna.org">Melinda
+            <p ><strong><a href="mailto:president@thebna.org">Melinda
             Rieboldt</a></strong><br />
             <em>President</em><br /></p>
 
-            <p align="center"><strong><a href="mailto:secretary@thebna.org">Mia
+            <p ><strong><a href="mailto:secretary@thebna.org">Mia
             Ousley</a></strong><br />
-            <em>Secretary<br /></em></p><br />
-            <strong><a href="mailto:MikeBrandt1@live.com">Mike
+            <em>Secretary</em><br /></p>
+            <p><strong><a href="mailto:MikeBrandt1@live.com">Mike
 			   Brandt</a></strong><br/><em>Board Member</em><br />
-            <br />
-            <strong><a href="mailto:Waterbird2y@yahoo.com">Barba
+            </p>
+            <p><strong><a href="mailto:Waterbird2y@yahoo.com">Barba
 			   Hatje</a></strong><br/><em>Board Member</em><br/>
-            <br />
-            <strong><a href="mailto:pattyattlc@aol.com">Patty Silva</a></strong><br />
+            </p>
+            <p><strong><a href="mailto:pattyattlc@aol.com">Patty Silva</a></strong><br />
             <em>North Area Home &amp; Garden Tour Chair</em><br
-			/><br/><br/>
+			/></p><br/><br/>
 			To contact City Council Members, click <a href="http://www.sanleandro.org/depts/cityhall/council/default.asp">here</a> for their
 			contact information.
           </div>
