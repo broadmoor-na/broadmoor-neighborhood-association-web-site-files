@@ -1,22 +1,3 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-  <meta name="generator" content=
-  "HTML Tidy for Linux/x86 (vers 11 February 2007), see www.w3.org" />
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii" />
-  <meta http-equiv="Content-Language" content="en-us" />
-  <meta name="description" content="Broadmoor Neighborhood Assocation" />
-  <meta name="keywords" content="Broadmoor Neighborhood Assocation San Leandro CA" />
-  <meta name="robots" content="index,follow" />
-
-  <title>Welcome to The BNA!</title>
-  <link href="../martinique.css" rel="stylesheet" type="text/css" media="screen" />
-  <link href="../print.css" rel="stylesheet" type="text/css" media="print" />
-</head>
-
-<body>
 <!--#include virtual="header.html" -->
   <div id="container">
     <div id="content">
@@ -55,5 +36,3 @@
       The BNA are encouraged to attend.</p>
     </div> <!-- id="content" -->
 <!--#include virtual="nav-subs.html" -->
-</body>
-</html>
