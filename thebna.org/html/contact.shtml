@@ -1,6 +1,7 @@
 <!--#include virtual="header.html" -->
-    <div id="content">
-            <p><font size="4">BNA Contact Information</font><br />
+    <div id="content" align="center">
+            <p><font size="4">BNA Contact Information</font><br
+			/><br/>
             </p>
 		 <br/>
             <p ><strong><a href="mailto:webmaster@thebna.org">BNA
