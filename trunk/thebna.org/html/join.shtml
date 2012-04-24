@@ -88,8 +88,11 @@
                 <td><input type="text" size="65" name="email2" /></td>
               </tr>
             </table><br />
-            <input type="checkbox" name="receiveEmail" value="recieveEmal" />I would like
-            to receive Broadmoor Beacon via email.<br />
+            <p>I would like
+            to receive Broadmoor Beacon by:&nbsp; <input type="radio"
+			name="group3" value="Email" checked=
+            "checked" />Email
+            <input type="radio" name="group3" value="USPost" />U.S. Post<br />
             <br />
 
             <div align="left">
