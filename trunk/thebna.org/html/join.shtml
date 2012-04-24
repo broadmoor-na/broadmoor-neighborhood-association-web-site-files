@@ -27,8 +27,9 @@
           <h2>BNA Annual Membership Application</h2>
 
           <div align="center">
-            <p><i>Member information is neither shared nor sold.</i></p>
-          </div>
+            <p><i>Member information is neither shared nor sold.<br/>
+Membership is valid from January to December of the current year.<br/>There is no prorating for partial
+year memberships.</i></p></div>
 
           <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
             <b>Membership Type:</b> <input type="radio" name="group1" value="New" />New
