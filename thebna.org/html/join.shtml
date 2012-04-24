@@ -5,16 +5,18 @@
   <meta http-equiv="Content-Type" content="text/html; charset=us-ascii" />
   <meta http-equiv="Content-Language" content="en-us" />
   <meta name="robots" content="index,follow" />
-  <style type="text/css">
+<style type="text/css" media="screen">
 /*<![CDATA[*/
   <!--
   h1 {text-align:center;}
   h2 {text-align:center; line-height: 40%;}
   -->
   /*]]>*/
+  .hide{
+    display:none;
+  }
   </style>
 
-  <title></title>
 </head>
 
 <body>
@@ -87,28 +89,22 @@
 
                 <td><input type="text" size="65" name="email2" /></td>
               </tr>
-            </table><br />
+            </table>
             <p>I would like
-            to receive Broadmoor Beacon by:&nbsp; <input type="radio"
+            to receive the Broadmoor Beacon by:&nbsp; <input type="radio"
 			name="group3" value="Email" checked=
             "checked" />Email
             <input type="radio" name="group3" value="USPost" />U.S. Post<br />
-            <br />
 
-            <div align="left">
-            <hr />
-            <b>To pay using US Mail:</b> Fill out the form and print it. Include a check
-            for your membership dues (see membership options in Paypal menu below). Mail
-            to:
+<div id="tabs">
+   <div id="nav">
+            <p>I would like
+            pay for my membership by:&nbsp;
+<input type="radio" name="tab" value="pkfrom" class="div1" checked="checked" />Paypal
+<input type="radio" name="tab" value="pkfrom" class="div2" />U.S. Post<br />
+   </div>
 
-            <p>Broadmoor Neighborhood Association<br />
-            P.O. Box 1222<br />
-            San Leandro, CA 94577</p>
-            <hr />
-			<div align="left">
-                    <b>To pay using PayPal: <br/><i>TO COME...</i></b>
-			</div>
-<!--
+			<div id="div1" align="left" class="tab">
 			<input type="hidden" name="cmd" value="_s-xclick" /><input type="hidden"
             name="hosted_button_id" value="BHHTXC3YJ6P46" />
 
@@ -118,7 +114,7 @@
                   <input type="hidden" name="on0" value="viaPayPal" />
 
                   <div align="left">
-                    <b>To pay using PayPal:</b> Select the membership type. Click on the
+                    Select the membership type. Click on the
                     "Buy Now" button.
                   </div>
                 </td>
@@ -127,15 +123,15 @@
               <tr>
                 <td><select name="os0" align="left">
                   <option value="Broadmoor Benefactor">
-                    Broadmoor Benefactor $40.00 USD
+                    Broadmoor Benefactor: $40.00
                   </option>
 
                   <option value="Basic Membership">
-                    Basic Membership $20.00 USD
+                    Basic Membership: $20.00
                   </option>
 
                   <option value="Low Income or Senior">
-                    Low Income / Senior Membership $10.00 USD
+                    Low Income / Senior Membership: $10.00
                   </option>
                 </select></td>
               </tr>
@@ -146,12 +142,64 @@
             "PayPal - The safer, easier way to pay online!" /><img alt="" border="0" src=
             "https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height=
             "1" />
--->
 			</div>
+			
+            <div id="div2" align="left" class="tab">
+<input type="radio" name="group5" value="Benefactor" />Benefactor: $40<br/>
+<input type="radio" name="group5" value="Geneeral" checked="checked" />General: $20<br/>
+<input type="radio" name="group5" value="LowIncome" />Senior / Low Income: $10<br/><br/>
+			
+            Fill out this form and print
+			it (Microsoft: Ctrl-P, Apple: Command-P). Include a check
+            for your membership dues. Please mail to:
+            <p>Broadmoor Neighborhood Association<br />
+            P.O. Box 1222<br />
+            San Leandro, CA 94577</p>
+		 </div>
+</div>
           </form>
         </td>
       </tr>
     </tbody>
   </table>
+<script type="text/javascript" charset="utf-8">
+    (function(){
+      var tabs =document.getElementById('tabs');
+      var nav = tabs.getElementsByTagName('input');
+      
+      /* 
+      * Hide all tabs
+      */
+      function hideTabs(){
+        var tab = tabs.getElementsByTagName('div');
+        for(var i=0;i<=nav.length;i++){
+			if (tab[i]) {
+          if(tab[i].className == 'tab'){
+            tab[i].className = tab[i].className + ' hide';
+          }
+			}
+        }
+      }
+      
+      /*
+      * Show the clicked tab
+      */
+      function showTab(tab){
+        document.getElementById(tab).className = 'tab'
+      }
+      
+      hideTabs(); /* hide tabs on load */
+      showTab("div1");
+      /* 
+      * Add click events
+      */
+      for(var i=0;i<nav.length;i++){
+        nav[i].onclick = function(){
+          hideTabs();
+          showTab(this.className);
+        }
+      }
+    })();
+  </script>
 </body>
 </html>
