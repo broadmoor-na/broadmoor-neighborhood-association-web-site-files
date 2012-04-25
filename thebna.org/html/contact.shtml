@@ -1,5 +1,6 @@
 <!--#include virtual="header.html" -->
-    <div id="content" align="center">
+    <div id="content">
+	   <center>
             <p><font size="4">BNA Contact Information</font><br
 			/><br/>
             </p>
@@ -10,5 +11,6 @@
 
 			To contact City Council Members, click <a href="http://www.sanleandro.org/depts/cityhall/council/default.asp">here</a> for their
 			contact information.
+			</center>
           </div>
 <!--#include virtual="nav-subs.html" -->
