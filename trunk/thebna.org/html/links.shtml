@@ -15,9 +15,7 @@
         <div align="center">
           <h1>
             <center>
-              <table width= "border=&quot;0&quot;" cellpadding="7" bordercolor="#CCCCCC">
-                <tr>
-                  <td width=""><div align="center"> <font size="4">COMMUNITY LINKS</font></font>
+              <div align="center"> <font size="4">COMMUNITY LINKS</font>
                           </p>
                           <table  border="1" cellpadding="7">
                             <tr valign="top">
@@ -32,8 +30,8 @@
                                     <li><a href="http://www.sl4youth.org/" target="_blank">San 
                                       Leandro Collaborative for Children, Youth &amp; Families</a></li>
                                     <li> <a href="http://www.fslc.org/" target="_blank"> Friends of San Leandro Creek</a> </li>
-                                  </ul></td>
-                              <td><div align="left"><font size="4"><strong>Education</strong></font> </div>
+                                  </ul></td>   </tr>
+                              <tr><td><div align="left"><font size="4"><strong>Education</strong></font> </div>
                                   <ul>
                                     <li><a href="http://www.sanleandro.k12.ca.us/" target="_blank">San 
                                       Leandro Unified School District</a> </li>
@@ -45,8 +43,8 @@
                                     <li><a href="http://www.slzusd.org/" target="_blank"> San Lorenzo Unified School District</a> </li>
                                     <li><a href="http://www.sanlorenzousd.k12.ca.us/schools/Arroyo/index.htm" target="_blank">Arroyo 
                                       High School</a></li>
-                                  </ul></td>
-                            </tr>
+                                  </ul></td></tr>
+                         
                             <tr valign="top">
                               <td><p><font size="4"><strong>Government</strong></font></p>
                                   <ul>
@@ -54,8 +52,8 @@
                                       of San Leandro</a> </li>
                                     <li><a href="http://www.co.alameda.ca.us/" target="_blank">Alameda 
                                       County</a></li>
-                                  </ul></td>
-                              <td><div align="left">
+                                  </ul></td></tr>
+                              <tr><td><div align="left">
                                   <div align="left"> <font size="4"><strong>Libraries</strong></font> </div>
                               </div>
                                   <ul>
@@ -78,8 +76,8 @@
                                     <li><a href="http://online.activecommunities.com/sanleandrorec/Activities/Activities.asp?SCheck=423148109&amp;SDT" target="_blank">San 
                                       Leandro Recreation Online</a> <br />
                                       (Seniors Activities) </li>
-                                  </ul></td>
-                              <td><p><font size="4"><strong>Parenting</strong></font></p>
+                                  </ul></td></tr>
+                              </tr><td><p><font size="4"><strong>Parenting</strong></font></p>
                                   <ul>
                                     <li><font size="3"><a href="http://www.slparentsnet.org/">San Leandro Parents Network</a></font></li>
                                   </ul></td>
@@ -90,56 +88,45 @@
                                     <li><a href="http://www.sanleandrochamber.com/" target="_blank">San 
                                       Leandro Chamber of Commerce</a> </li>
                                     <li><a href="http://www.preservationnation.org/" target="_blank">National Trust for Historic Preservation</a> <br />
-                                      The National Trust for Historic Preservation provides leadership, education and advocacy to save <br />
-                                      America's diverse historic places <br />
-                                      and revitalize our communities. <br />
+                                      The National Trust for Historic
+									  Preservation provides leadership, education and advocacy to save
+                                      America's diverse historic places
+                                      and revitalize our communities.
                                     </li>
-                                  </ul></td>
-                              <td><p><strong><font size="4">Home Care &amp; Maintenance</font></strong></p>
+                                  </ul></td></tr>
+                              <tr><td><p><strong><font size="4">Home Care &amp; Maintenance</font></strong></p>
                                   <ul>
                                     <li><a href="http://www.arborday.org/trees/tips/" target="_blank">Tree Care &amp; Tips </a><br />
-                                      9 Tree Care Tips &amp; Techniques </li>
-                                    <li><a href="http://houseofantiquehardware.com/" target="_blank">House of Antique Hardware</a> <br />
-                                      Restoration Hardware Accents <br />
-                                      for your home. 
-                                      High quality <br />
-                                      reproductions . </li>
+                                      9 Tree Care Tips &amp; Techniques </li>                                    
                                     <li> <a href="http://www.achp.gov/" target="_blank">Advisory Council on 
-                                      Historic <br />
-                                      Preservation</a> is an independent <br />
-                                      Federal agency that promotes <br />
-                                      the preservation, enhancement, <br />
-                                      and productive use of our <br />
-                                      Nation's historic resources and <br />
-                                      advises the President and <br />
-                                      Congress on national historic <br />
+                                      Historic 
+                                      Preservation</a> is an independent 
+                                      Federal agency that promotes 
+                                      the preservation, enhancement, 
+                                      and productive use of our 
+                                      Nation's historic resources and 
+                                      advises the President and 
+                                      Congress on national historic 
                                       preservation policy.</li>
                                   </ul></td>
                             </tr>
                           </table>
-                    <p><strong>Secondary Dwelling Units Now Allowed in <br />
-                      Single Family Residential Neighborhoods<br />
-                            </strong>The San Leandro City Council has amended the Zoning Code to 
-                      allow<br />
-                      Secondary Dwelling Units through ministerial review in <font color="#FF0000"><strong><u>ANY</u></strong></font> residential district, <br />
-                      subject to certain criteria as outlined in the new Ordinance. <br />
-                      The BNA has included a copy of the revised <br />
-                      Ordinance on our website click <strong><a href="../pdf/city_ord_1-4.pdf"><strong>HERE</strong></a> </strong></p>
-                    <p><strong>Recycling being picked up by garbage trucks??</strong><br />
-                      For more information and where to report this activity click <a href="article.htm#recycling"><strong>HERE</strong></a></p>
-                    <p><font size="3">For news and information regarding the San Leandro <strong><br />
-                      Neighborhood Traffic Calming Program</strong></font><font size="3"> click <a href="article.htm#traffic"><strong>HERE</strong></a></font></p>
-                    <hr width="75%" color="#990066" />
-                  </div></td>
-                </tr>
-              </table>
-              <h1>&nbsp;</h1>
+                    <br/><font size="2"><p><strong>Secondary Dwelling Units Now Allowed in
+                      Single Family Residential Neighborhoods<br
+					  />
+                            </strong><p>The San Leandro City Council has amended the Zoning Code to 
+                      allow
+                      Secondary Dwelling Units through ministerial
+					  review in <font color="#FF0000"><strong><u>ANY</u></strong></font> residential district,
+                      subject to certain criteria as outlined in the new Ordinance.
+                      The BNA has included a copy of the revised
+                      Ordinance on our website click <strong><a
+					  href="../pdf/city_ord_1-4.pdf"><strong>HERE</strong></a>
+						 </strong></p><br/>                    
+                  </div>
             </center>
           </h1>
-          <h2 align="center">&nbsp;</h2>
-          <div align="center"></div>
         </div>
-        <p>&nbsp;</p>
       </div>
     </center>
   </div>
