@@ -1,0 +1,31 @@
+<!--#include virtual="header.html" -->
+<div id="content"><a id="content-anchor" name="content"></a>
+    <center>
+      <div id="content2">
+        <div align="center">
+            <div align="left">
+              <p>The Broadmoor Neighborhood Association perodically sponsors 
+                an historical night at the San Leandro Library for those who 
+                are interested in researching the history of their homes. <br />
+                              <br />
+                The San Leandro History Room owns a collection of rare books 
+                and materials on local history and the Broadmoor Neighborhood. <br />
+                              <br />
+                BNA members will have the opportunity to learn about their 
+                homes during the presentation given by the history room librarian.<br />
+                              <br />
+                This is an excellent opportunity join fellow Broadmoor neighbors 
+                for a fun fact filled evening and see if your home once belonged 
+                to a famous person.<br />
+                              <br />
+                Here is a link to the documents to assist you on your research 
+                endeavors...<br />
+                              <strong><a href="../docs/BNA_Historical_Night_2010_ocr.pdf">History 
+                                Room Tour Documents</a></strong> <font size="-2">(Acrobat 
+                                  PDF)</font></p>
+            </div>
+        </div>
+      </div>
+    </center>
+</div>
+<!--#include virtual="nav-subs.html" -->
