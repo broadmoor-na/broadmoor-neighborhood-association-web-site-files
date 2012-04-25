@@ -10,61 +10,65 @@
 </div>
 
 <div id="container">
-<div id="content"><a id="content-anchor" name="content"></a>
+<div id="content">
     <center>
       <div id="content2">
         <div align="center">
           <h1>
             <center>
-              The BNA Email Discussion </font></font>Forum
+              The BNA Email Discussion Forum
               </p>
             </center>
           </h1>
-          <table width="522" border="1"  cellpadding="7">
-            <tr>
-              <td valign="top"><blockquote>
-                  <p class="bold">The BNA Email Discussion Forum is for current BNA Members only.
+                  <p>The BNA Email Discussion Forum is for current BNA Members only.
                     To subscribe to the BNA Email Discussion Forum, read the policy below 
                     then click on the link at the bottom of the page. You will be directed to the
                     ListBox web site where you can sign up. </p>
-              </blockquote></td>
-            </tr>
-            <tr>
-              <td valign="top"><p><br />
-                The Broadmoor Neighborhood Association <br />
-                Email Discussion Forum Policy</p>
+			<div align="left">
+                <p><b>Email Discussion Forum Policy</b></p>
                   <p>The Broadmoor Neighborhood Association (BNA) Email Discussion Forum is intended for members of The BNA to discuss issues directly affecting the Broadmoor neighborhood area and San Leandro as a whole as it affects the Broadmoor. All posts to the Forum are moderated and those that fall outside the Email Discussion Forum Policy&rsquo;s bounds will be disallowed by the moderators at their discretion.</p>
                 <p>Recognizing this is a judgment call, the moderators will attempt to allow as much leeway in this policy as is reasonable until such time as it threatens to affect the viability of the Forum as a venue for a broad number of people.</p>
                 <p>Moderators disallowing a post will notify the person attempting to post the message as to why it was disallowed. This decision can be appealed to The BNA Board of Directors at the regularly occurring  board meetings. The board can overturn or uphold the decision of the moderator at its discretion and the decision of The BNA Board will be considered final.<br />
                       <br />
-                  Other General Policy Points:<br />
-                  - Swearing, personal attacks, and harassment are not allowed.<br />
-                  - Information reposted should be done with the permission of the poster.<br />
-                  - No solicitation (though a member request for information may be responded to with commercial information).</p>
-                <p>General Conclusions:<br />
-                  1) National political issues are not within the scope of the BNA and therefore the Forum.<br />
-                  2) Offering a separate political discussion forum is costly and not within the scope of the BNA. (We recommend members investigate doing this on their own and announcing it on the BNA Forum.)<br />
-                  3) The discussion of local political issues ARE within the scope of the Forum.<br />
-                  4) We fear that these discussions could make the Forum so high traffic that many people might unsubscribe to avoid the mass of email.<br />
-                  5) The call as to what is a political discussion, what is &quot;local&quot; in nature, and what should be allowed is a difficult thing to define.<br />
-                  6) The option for people to sign up for an Announce-Only Forum should be available for those who do not wish to be on the Email Discussion Forum, but wish to receive announcements from the BNA via email. </p></td>
-            </tr>
-            <tr>
-              <td valign="top"><p align="center"><font size="4"><strong><a href="http://v2.listbox.com/member/?listname=thebna@v2.listbox.com" target="_blank">The BNA Email Discussion Forum Sign-up</a></strong></font></p></td>
-            </tr>
-            <tr>
-              <td valign="top"><div align="center"> The name of the BNA ListServ is &quot;<strong>thebna</strong>&quot;<br />
-  
-              </div></td>
-            </tr>
-            <tr>
-              <td valign="top"><div align="center" class="style1"></div></td>
-            </tr>
-          </table>
-          <h2 align="center">&nbsp;</h2>
-          <div align="center"></div>
+                  Other General Policy Points:
+                  <ul>
+					 <li>Swearing, personal attacks, and harassment
+					 are not allowed.</li>
+                  <li>Information reposted should be done with the
+				  permission of the poster.</li>
+                  <li>No solicitation (though a member request for
+				  information may be responded to with commercial
+				  information).</li></ul>
+                <p>General Conclusions:
+				   <ul>
+                  <li>National political issues are not within the
+				  scope of the BNA and therefore the Forum.</li>
+                  <li>Offering a separate political discussion forum
+				  is costly and not within the scope of the BNA. (We
+				  recommend members investigate doing this on their
+				  own and announcing it on the BNA Forum.)</li>
+                  <li>The discussion of local political issues ARE
+				  within the scope of the Forum.</li>
+                  <li>We fear that these discussions could make the
+				  Forum so high traffic that many people might
+				  unsubscribe to avoid the mass of email.</li>
+                  <li>The call as to what is a political discussion,
+				  what is &quot;local&quot; in nature, and what
+				  should be allowed is a difficult thing to
+				  define.</li>
+                  <li>The option for people to sign up for an
+				  Announce-Only Forum should be available for those
+				  who do not wish to be on the Email Discussion
+				  Forum, but wish to receive announcements from the
+				  BNA via email.</li>
+				  </ul>
+
+</div>
+              <p align="center"><font size="4"><strong><a
+			  href="http://v2.listbox.com/member/?listname=thebna@v2.listbox.com"
+			  target="_blank"> The BNA Email Discussion Forum Sign-up</a></strong></font></p></td>
+
         </div>
-        <p>&nbsp;</p>
       </div>
     </center>
   </div>
