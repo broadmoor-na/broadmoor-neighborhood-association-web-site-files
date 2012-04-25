@@ -8,29 +8,24 @@
       </ul>
     </div>
   </div>
-  <div id="container">
-<div id="content"><a id="content-anchor" name="content"></a>
-    <center>
+  
+<div id="container">
+<div id="content">
+            <center>
       <div id="content2">
         <div align="center">
-          <h1>
-            <center>
-              <table  border="1" cellpadding="7">
-          
-                <tr>
-                  <td><h2>Information on the 
+<h2>Information on the 
                     Sewer Lateral Work:</h2>
-                    <p><a href="http://joycegross.com/tmp/sewer/">http://joycegross.com/tmp/sewer/</a></p></td>
-                </tr>
-                <tr>
-                  <td valign="top"><h2>San Leandro Police Department</h2> 
-                     <p>Click <strong><a href="http://www.sanleandro.org/depts/pd/crime/statistics.asp" target="_blank">HERE</a></strong> for the San Leandro Police Department Crime Statistics web site <br />
+                    <p><a
+					href="http://joycegross.com/tmp/sewer/">http://joycegross.com/tmp/sewer/</a></p><br/><br/>
+					<h2>San Leandro Police Department</h2> 
+                     <p>Click <strong><a
+					 href="http://www.sanleandro.org/depts/pd/crime/statistics.asp"
+					 target="_blank">HERE</a>  </strong> for the San
+						Leandro Police Department Crime Statistics
+						web site.<br /><br/>
                         </p>
-                      </td>
-                </tr>
-                <tr>
-                  <td valign="top"><div align="left">
-                      <h2>Neighborhood trash pick-ups</h2>
+                      <h2>Neighborhood trash pick-ups</h2><br/>
                     <a
 					href="http://www.alamedacountyindustries.com/"
 					target="_blank">  Alameda County Industries</a> (the garbage collectors) 
@@ -40,13 +35,8 @@
 					time. Call 
                     Alameda County Industries at 357-7282 to schedule your pickup.
                     </p>
-                  </div>
-                </tr>
-              </table>
-            </center>
-          </h1>
-        </div>
-      </div>
-    </center>
-  </div>
+		</div>
+	  </div>
+	</center>
+</div>
 <!--#include virtual="nav-subs.html" -->
