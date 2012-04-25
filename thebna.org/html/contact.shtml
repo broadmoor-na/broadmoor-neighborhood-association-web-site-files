@@ -1,4 +1,14 @@
 <!--#include virtual="header.html" -->
+        <li><a href="main.shtml" title="Main Page">Home</a></li>
+        <li><a href="join.shtml" title="Join The BNA!">Membership</a></li>
+        <li><a href="contact.shtml" class="current" title="Contact Us">Contact</a></li>
+        <li><a href="events.shtml" title="Upcoming Events">Events</a></li>
+        <li><a href="community.shtml" title="Useful Information">Community</a></li>
+        <li><a href="links.shtml" title="Handy Links">Related Links</a></li>
+      </ul>
+    </div>
+  </div>
+  <div id="container">
     <div id="content">
 	   <center>
             <p><font size="4">BNA Contact Information</font><br
