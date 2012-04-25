@@ -1,0 +1,27 @@
+<!--#include virtual="header.html" -->
+        <li><a href="main.shtml" title="Main Page">Home</a></li>
+        <li><a href="join.shtml" title="Join The BNA!">Membership</a></li>
+        <li><a href="contact.shtml" title="Contact Us">Contact</a></li>
+        <li><a href="events.shtml" title="Upcoming Events">Events</a></li>
+        <li><a href="community.shtml" title="Useful Information">Community</a></li>
+        <li><a href="links.shtml" title="Handy Links">Related Links</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div id="container">
+    <div id="content">
+	   <br/>
+      <div align="center">
+        <img src="../images/broadmorebook.png" alt="" width="75%" /><br />
+        by J.B. Peppin
+      </div>
+
+      <p>Enjoy this <a href=
+      "http://www.flickr.com/photos/52474976@N02/sets/72157624603336692/show/" target=
+      "_blank"><strong>Slideshow Compendium on Flickr</strong></a> of over 90 pages of
+      this 1919 publication covering most of the various home styles in the Broadmoor
+      area. The scanning of these pages was generously facilitated by Meli Rieboldt.</p>
+
+    </div>
+<!--#include virtual="nav-subs.html" -->

@@ -1,5 +1,16 @@
 <!--#include virtual="header.html" -->
-<div id="content">
+        <li><a href="main.shtml" title="Main Page">Home</a></li>
+        <li><a href="join.shtml" title="Join The BNA!">Membership</a></li>
+        <li><a href="contact.shtml" title="Contact Us">Contact</a></li>
+        <li><a href="events.shtml" title="Upcoming Events">Events</a></li>
+        <li><a href="community.shtml" title="Useful Information">Community</a></li>
+        <li><a href="links.shtml" title="Handy Links">Related Links</a></li>
+      </ul>
+    </div>
+  </div>
+
+<div id="container">
+  <div id="content">
     <center>
       <div id="content2">
         <p>&nbsp;</p>
@@ -9,12 +20,14 @@
 		 href="http://maps.google.com/maps/ms?ie=UTF&amp;msa=0&amp;msid=211966114349857193083.0004ae825d4ab3f584a1f">
 		   <img src="../images/map.jpg" width="400"  title="The Broadmoor" /></a>
         <p>&nbsp;</p>
-        <p>Statistics about the Broadmoor (provided by city-data.com):</p>
-        <ul>
-          <li><a href="http://www.city-data.com/neighborhood/Broadmoor-San-Leandro-CA.html">Western Broadmoor</a></li>
-          <li> <a href="http://www.city-data.com/neighborhood/Hollywood-San-Leandro-CA.html"> Eastern Broadmoor (Listed as Hollywood) </a></li>
-        </ul>
+        <p>Statistics about the Broadmoor (provided by
+		   city-data.com):</p><br/>
+		  <a href="http://www.city-data.com/neighborhood/Broadmoor-San-Leandro-CA.html">Western
+			 Broadmoor</a><br/><br/>
+          <a
+		  href="http://www.city-data.com/neighborhood/Hollywood-San-Leandro-CA.html">
+			  Eastern Broadmoor (Listed as Hollywood) </a><br/>
       </div>
     </center>
-</div>
+  </div>
 <!--#include virtual="nav-subs.html" -->

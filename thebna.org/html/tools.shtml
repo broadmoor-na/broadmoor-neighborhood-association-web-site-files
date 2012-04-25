@@ -1,0 +1,31 @@
+<!--#include virtual="header.html" -->
+        <li><a href="main.shtml" title="Main Page">Home</a></li>
+        <li><a href="join.shtml" title="Join The BNA!">Membership</a></li>
+        <li><a href="contact.shtml" title="Contact Us">Contact</a></li>
+        <li><a href="events.shtml" title="Upcoming Events">Events</a></li>
+        <li><a href="community.shtml" title="Useful Information">Community</a></li>
+        <li><a href="links.shtml" title="Handy Links">Related Links</a></li>
+      </ul>
+  	</div>
+</div>
+
+<div id="container">
+
+<div id="content"><a id="content-anchor" name="content"></a>
+  <h1><strong>Neighbor                      to Neighbor Program</strong></h1>
+  <blockquote>
+    <p>Tools For Holding Meetings With Your Neighbors</p>
+    <ul>
+      <li>Click <strong><a href="http://thebna.org/ppt/The_BNA_Neighbor_To_Neighbor.pdf">HERE</a></strong> for                          Adobe Acrobat &copy; PDF document (1MB)</li>
+    </ul>
+    <ul>
+      <li>Click <a href="http://thebna.org/ppt/Neighbor%20To%20Neighbor.mht"><strong>HERE</strong></a> for                      Microsoft PowerPoint &copy; presentation <br />
+        (1.5MB,                      Requires Microsoft Explorer and ActiveX)</li>
+    </ul>
+  </blockquote>
+  <h1>&nbsp;</h1>
+  <br />
+    <center>
+    </center>
+  </div>
+<!--#include virtual="nav-subs.html" -->
