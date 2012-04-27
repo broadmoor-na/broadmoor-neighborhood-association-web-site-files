@@ -3,7 +3,6 @@
 
 <head>
 	<meta charset="UTF-8">
-	<title>Directory Contents</title>
 	<link rel="stylesheet" href="../dirStyle.css">
 	<script src="../js/sorttable.js"></script>
 </head>
@@ -17,14 +16,13 @@
 		<table class="sortable">
 			<thead>
 				<tr>
-					<th>Filename</th>
-					<th>Date</th>
+					<th>File name</th>
 				</tr>
 			</thead>
 			<tbody>
 			<?php
 				$myDirectory=opendir("../minutes");
-				while($entryName=readdir($myDirectory)) {
+				while(false !== ($entryName=readdir($myDirectory))) {
 					$dirArray[]=$entryName;
 				}
 				closedir($myDirectory);
@@ -41,8 +39,8 @@
 	
 						print("
 						<tr class='file'>
-							<td><a href='$path'>$dirArray[$index]</a></td>
-							<td sorttable_customkey='$timekey'><a href='$path'>$modtime</a></td>
+							<td sorttable_customkey='$timekey'><a href='$path'>
+							 $dirArray[$index]</a></td>
 						</tr>");
 					}
 				}
