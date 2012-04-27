@@ -43,6 +43,7 @@ sorttable = {
 
 doSort: function(e) {
 			if (e == undefined) { return; }
+			if (e.className == undefined) { return; }
 			if (e.className.search(/\bsorttable_sorted\b/) != -1) {
 			// if we're already sorted by this column, just 
 			// reverse the table, which is quicker
