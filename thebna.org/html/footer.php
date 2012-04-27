@@ -1,5 +1,11 @@
+			</tbody>
+		</table>
+	
+	</div>
+    </div>
     <div id="nav-subs">
-      <div id="nav-section">
+
+       <div id="nav-section">
         <ul>
           <li><a href="forum.shtml" title="Join the Discussion">The BNA Email
           Discussion Forum</a></li>
@@ -29,5 +35,3 @@
 
   <div id="info-site">
   </div>
-</body>
-</html>
