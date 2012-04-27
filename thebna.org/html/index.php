@@ -48,7 +48,8 @@ want to mess with .htaccess.
 			</thead>
 			<tbody>
 			<?php
-				$myDirectory=opendir("../minutes");
+			    function writeFileList($dir) {
+				$myDirectory=opendir("../" . $dir);
 				while(false !== ($entryName=readdir($myDirectory))) {
 					$dirArray[]=$entryName;
 				}
@@ -59,7 +60,7 @@ want to mess with .htaccess.
 				
 					// always hide . files
 					if(substr("$dirArray[$index]", 0, 1) != ".") {
-						$path = "../minutes/" . $dirArray[$index];
+						$path = "../" . $dir . "/" . $dirArray[$index];
 
 						$modtime=date("M j Y g:i A", filemtime($path));
 						$timekey=date("YmdHis", filemtime($path));
@@ -71,6 +72,8 @@ want to mess with .htaccess.
 						</tr>");
 					}
 				}
+			    }
+			    writeFileList("minutes");
 			?>
 			</tbody>
 		</table>
