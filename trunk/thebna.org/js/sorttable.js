@@ -53,7 +53,7 @@ doSort: function(e) {
 				e.removeChild(document.getElementById('sorttable_sortfwdind'));
 				sortrevind = document.createElement('span');
 				sortrevind.id = "sorttable_sortrevind";
-				sortrevind.innerHTML = stIsIE ? '&nbsp<font face="webdings">5</font>' : '&nbsp;&#x25B4;';
+				sortrevind.innerHTML = ' '; //stIsIE ? '&nbsp<font face="webdings">5</font>' : '&nbsp;&#x25B4;';
 				e.appendChild(sortrevind);
 				return;
 			}
@@ -66,7 +66,7 @@ doSort: function(e) {
 				e.removeChild(document.getElementById('sorttable_sortrevind'));
 				sortfwdind = document.createElement('span');
 				sortfwdind.id = "sorttable_sortfwdind";
-				sortfwdind.innerHTML = stIsIE ? '&nbsp<font face="webdings">6</font>' : '&nbsp;&#x25BE;';
+				sortfwdind.innerHTML = ' '; //stIsIE ? '&nbsp<font face="webdings">6</font>' : '&nbsp;&#x25BE;';
 				e.appendChild(sortfwdind);
 				return;
 			}
@@ -163,7 +163,7 @@ doSort: function(e) {
 	      // make it clickable to sort
 	      headrow[i].sorttable_columnindex = i;
 	      headrow[i].sorttable_tbody = table.tBodies[0];
-	      dean_addEvent(headrow[i],"click", this.doSort);
+//	      dean_addEvent(headrow[i],"click", this.doSort);
 	    }
     }
   },
