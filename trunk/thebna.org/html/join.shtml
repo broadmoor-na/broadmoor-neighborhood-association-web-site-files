@@ -131,7 +131,7 @@ year memberships.</i></p></div>
                   </option>
 
                   <option value="Low Income or Senior">
-                    Low Income / Senior Membership: $10.00
+                    Low/Fixed Income Membership: $10.00
                   </option>
                 </select></td>
               </tr>
@@ -154,7 +154,7 @@ year memberships.</i></p></div>
             <div id="div2" align="left" class="tab">
 <input type="radio" name="group5" value="Benefactor" />Benefactor: $40<br/>
 <input type="radio" name="group5" value="General" checked="checked" />General: $20<br/>
-<input type="radio" name="group5" value="LowIncome" />Senior / Low Income: $10<br/><br/>
+<input type="radio" name="group5" value="LowIncome" />Low/Fixed Income: $10<br/><br/>
 			
             Fill out this form and print
 			it (Microsoft: Ctrl-P, Apple: Command-P). Include a check
