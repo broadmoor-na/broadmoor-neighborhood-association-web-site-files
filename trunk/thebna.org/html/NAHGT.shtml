@@ -11,23 +11,44 @@
 
 <div id="container">
   <div id="content">
-    <center>
       <div id="content2">
-        <p>&nbsp;</p>
-        <h1>Click map to see on google maps:</h1>
-        
-        <a
-		 href="http://maps.google.com/maps/ms?ie=UTF&amp;msa=0&amp;msid=211966114349857193083.0004ae825d4ab3f584a1f">
-		   <img src="../images/map.jpg" width="400"  title="The Broadmoor" /></a>
-        <p>&nbsp;</p>
-        <p>Statistics about the Broadmoor (provided by
-		   city-data.com):</p><br/>
-		  <a href="http://www.city-data.com/neighborhood/Broadmoor-San-Leandro-CA.html">Western
-			 Broadmoor</a><br/><br/>
-          <a
-		  href="http://www.city-data.com/neighborhood/Hollywood-San-Leandro-CA.html">
-			  Eastern Broadmoor (Listed as Hollywood) </a><br/>
-      </div>
-    </center>
+<b>The San Leandro North Area Home and Garden Tour committee
+regretfully announces that this years tour must be canceled.</b>
+<br/><br/>
+For the past 20 years the Home and Garden Tour Committee
+has worked diligently to obtain at least 6 homes required
+for the tour to be successful and we were unable to do so this year.  
+<br/><br/>
+We would like to thank those homeowners who were willing to
+put their homes on the tour this year and are happy to say
+they have agreed to be part of the tour in 2013.
+It has been this willingness and generosity by such homeowners and
+volunteers alike that has allowed for the success of the
+Home and Garden Tour and for that we thank you.
+<br/><br/>
+It is especially disappointing that we will not be able to make a
+contribution to the George Mark Children's House this year.
+George Mark has been the recipient of the tour proceeds
+for the past three years.  George Mark Children's House, located in
+San Leandro,  is the first children's hospice house in the U.S.
+providing medical, emotional and practical support to families
+with children that  have life-threatening and terminal illnesses. 
+<br/><br/>
+George Mark is a non-profit organization that relies on contributions
+from  individuals and groups like the Home and Garden Tour to
+continue to make a world of difference at the most difficult
+time in the lives of families with ill children.  It would be
+wonderful if we could still help them this year.
+We would like to urge everyone who is able, to make a contribution to
+George Mark.  Those who would like to contribute to this amazing cause can do so by
+sending a check payable to:
+<br/><br/>
+George Mark Children's House<br/>
+2121 George Mark Lane<br/>
+San Leandro, CA 94578
+<br/><br/>
+You can learn more about George Mark Children's House at
+<a href="www.georgemark.org" >www.georgemark.org</a>.
+	  </div>
   </div>
 <!--#include virtual="nav-subs.html" -->
