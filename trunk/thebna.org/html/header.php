@@ -1,6 +1,6 @@
   <div id="page-background"><img src="../img/blue-rain-bg.jpg" width="100%" height="100%"/></div>
   <div id="banner"></div>
-
+<!-- for testing -->
   <div id="nav-toplevel">
     <div id="nav-main">
       <ul title="Major Site Sections">
