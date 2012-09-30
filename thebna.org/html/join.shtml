@@ -177,9 +177,11 @@ h2 {
 			 * Add click events
 			 */
 			for ( var i = 0; i < nav.length; i++) {
-				nav[i].onclick = function() {
-					hideTabs();
-					showTab(this.className);
+				if (nav[i].name == 'tab') {
+					nav[i].onclick = function() {
+						hideTabs();
+						showTab(this.className);
+					}
 				}
 			}
 		})();
