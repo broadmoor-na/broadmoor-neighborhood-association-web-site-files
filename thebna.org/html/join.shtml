@@ -31,8 +31,7 @@ h2 {
 		<tbody>
 			<tr>
 				<td width="100%">
-<h2>BNA Annual Membership Application</h2>
-					
+					<h2>BNA Annual Membership Application</h2>
 					<div align="center">
 						<p>
 							<i>Member information is neither shared nor sold.<br />
@@ -40,160 +39,150 @@ h2 {
 								year.<br /> There is no prorating for partial year memberships.
 							</i>
 						</p>
-					</div> <b>Membership Type:</b> 
-					<input type="radio" name="group1" value="New" />New 
-					<input type="radio" name="group1" value="Renewal" checked="checked" />Renewal<br />
-
+					</div>
 					<div id="tabs">
-
-							<div id="nav">
-						<p>
-							I would like pay for my membership by:&nbsp; 
-							<input type="radio" name="tab" value="pkfrom" class="div1" checked="checked">Paypal
-							<input type="radio" name="tab" value="pkfrom" class="div2">U.S. Post<br>
-						</p>
-					</div><div id="div1" align="left" class="tab">
-
-								<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="BHHTXC3YJ6P46">
-<table>
-<tr><td><input type="hidden" name="on0" value="Yearly Membership Options">Yearly Membership Options</td></tr><tr><td><select name="os0">
-	<option value="Broadmoor Benefactor">Broadmoor Benefactor $40.00 USD</option>
-	<option value="Basic Membership">Basic Membership $20.00 USD</option>
-	<option value="Low/Fixed Income">Low/Fixed Income $10.00 USD</option>
-</select> </td></tr>
-</table>
-<input type="hidden" name="currency_code" value="USD">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
-							</div><div id="div2" align="left" class="tab">
+						<div id="nav">
+							<p>
+								I would like pay for my membership by:&nbsp; <input type="radio"
+									name="tab" value="pkfrom" class="div1" checked="checked">Paypal
+								<input type="radio" name="tab" value="pkfrom" class="div2">U.S.
+								Post<br>
+							</p>
+						</div>
+						<div id="div1" align="left" class="tab">
+							<form action="https://www.paypal.com/cgi-bin/webscr"
+								method="post">
+								<input type="hidden" name="cmd" value="_s-xclick"> <input
+									type="hidden" name="hosted_button_id" value="BHHTXC3YJ6P46">
+								<table>
+									<tr>
+										<td><input type="hidden" name="on0"
+											value="Yearly Membership Options">Yearly Membership
+											Options</td>
+									</tr>
+									<tr>
+										<td><select name="os0">
+												<option value="Broadmoor Benefactor">Broadmoor
+													Benefactor $40.00 USD</option>
+												<option value="Basic Membership">Basic Membership
+													$20.00 USD</option>
+												<option value="Low/Fixed Income">Low/Fixed Income
+													$10.00 USD</option>
+										</select></td>
+									</tr>
+								</table>
+								<input type="hidden" name="currency_code" value="USD"> <input
+									type="image"
+									src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif"
+									border="0" name="submit"
+									alt="PayPal - The safer, easier way to pay online!"> <img
+									alt="" border="0"
+									src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif"
+									width="1" height="1">
+							</form>
+						</div>
+						<div id="div2" align="left" class="tab">
 							<input type="radio" name="group5" value="Benefactor">Broadmoor
-							Benefactor: $40<br> <input type="radio" name="group5" value="General" checked="checked">Basic Membership: $20<br>
+							Benefactor: $40<br> <input type="radio" name="group5"
+								value="General" checked="checked">Basic Membership: $20<br>
 							<input type="radio" name="group5" value="LowIncome">Low/Fixed
 							Income: $10<br> <br> Fill out this form and print it
 							(Microsoft: Ctrl-P, Apple: Command-P). Include a check for your
 							membership dues. Please mail to:
-
 							<p>
 								Broadmoor Neighborhood Association<br> P.O. Box 1222<br>
 								San Leandro, CA 94577
 							</p>
-					<p>
-						<b>Name and Address:</b> <i>(*Asterisk indicates required
-							fields.)</i>
-					</p>
-
-					<table>
-						<col width="125">
-
-						<tr>
-							<td>Your name*</td>
-
-							<td><input type="text" size="65" name="Name1" required="required"></td>
-						</tr>
-
-						<tr>
-							<td></td>
-						</tr>
-
-						<tr>
-							<td>Additional name</td>
-
-							<td><input type="text" size="65" name="Name2"></td>
-						</tr>
-
-						<tr>
-							<td>Address*</td>
-
-							<td><input type="text" size="65" name="Address" required="required"></td>
-						</tr>
-
-						<tr>
-							<td>Phone</td>
-
-							<td><input type="text" size="65" name="Phone"></td>
-						</tr>
-					</table>
-
-					<p>
-						<b>Email addresses</b><br> Please include the email address(es)
-						your household will use if you would like to subscribe to the
-						Broadmoor Neighborhood Association email list or receive the
-						Broadmoor Beacon by email.
-					</p>
-
-					<table>
-						<col width="125">
-
-						<tr>
-							<td>1st email</td>
-
-							<td><input type="text" size="65" name="email1"></td>
-						</tr>
-
-						<tr>
-							<td>2nd email</td>
-
-							<td><input type="text" size="65" name="email2"></td>
-						</tr>
-					</table>
-
-					<p>
-						I would like to receive the Broadmoor Beacon by:&nbsp; <input type="radio" name="group3" value="Email" checked="checked">Email
-						<input type="radio" name="group3" value="USPost">U.S. Post<br>
-					</p>
+							<p>
+								<b>Name and Address:</b> <i>(*Asterisk indicates required
+									fields.)</i>
+							</p>
+							<table>
+								<col width="125">
+								<tr>
+									<td>Your name*</td>
+									<td><input type="text" size="65" name="Name1"
+										required="required"></td>
+								</tr>
+								<tr>
+									<td></td>
+								</tr>
+								<tr>
+									<td>Additional name</td>
+									<td><input type="text" size="65" name="Name2"></td>
+								</tr>
+								<tr>
+									<td>Address*</td>
+									<td><input type="text" size="65" name="Address"
+										required="required"></td>
+								</tr>
+								<tr>
+									<td>Phone</td>
+									<td><input type="text" size="65" name="Phone"></td>
+								</tr>
+							</table>
+							<p>
+								<b>Email addresses</b><br> Please include the email
+								address(es) your household will use if you would like to
+								subscribe to the Broadmoor Neighborhood Association email list
+								or receive the Broadmoor Beacon by email.
+							</p>
+							<table>
+								<col width="125">
+								<tr>
+									<td>1st email</td>
+									<td><input type="text" size="65" name="email1"></td>
+								</tr>
+								<tr>
+									<td>2nd email</td>
+									<td><input type="text" size="65" name="email2"></td>
+								</tr>
+							</table>
+							<p>
+								I would like to receive the Broadmoor Beacon by:&nbsp; <input
+									type="radio" name="group3" value="Email" checked="checked">Email
+								<input type="radio" name="group3" value="USPost">U.S.
+								Post<br>
+							</p>
+							Membership Type: <input type="radio" name="group1"
+								value="New" />New <input type="radio" name="group1"
+								value="Renewal" checked="checked" />Renewal<br />
 						</div>
-
-
 					</div>
-					
-						
-
-					
 				</td>
 			</tr>
 		</tbody>
 	</table>
 	<script type="text/javascript" charset="utf-8">
-    (function(){
-      var tabs =document.getElementById('tabs');
-      var nav = tabs.getElementsByTagName('input');
-      
-      /* 
-      * Hide all tabs
-      */
-      function hideTabs(){
-        var tab = tabs.getElementsByTagName('div');
-        for(var i=0;i<=nav.length;i++){
-                        if (tab[i]) {
-          if(tab[i].className == 'tab'){
-            tab[i].className = tab[i].className + ' hide';
-          }
-                        }
-        }
-      }
-      
-      /*
-      * Show the clicked tab
-      */
-      function showTab(tab){
-        document.getElementById(tab).className = 'tab'
-      }
-      
-      hideTabs(); /* hide tabs on load */
-      showTab("div1");
-      /* 
-      * Add click events
-      */
-      for(var i=0;i<nav.length;i++){
-        nav[i].onclick = function(){
-          hideTabs();
-          showTab(this.className);
-        }
-      }
-    })();
-  </script>
+		(function() {
+			var tabs = document.getElementById('tabs');
+			var nav = tabs.getElementsByTagName('input');
+			function hideTabs() {
+				var tab = tabs.getElementsByTagName('div');
+				for ( var i = 0; i <= nav.length; i++) {
+					if (tab[i]) {
+						if (tab[i].className == 'tab') {
+							tab[i].className = tab[i].className + ' hide';
+						}
+					}
+				}
+			}
+			function showTab(tab) {
+				document.getElementById(tab).className = 'tab'
+			}
+
+			hideTabs(); /* hide tabs on load */
+			showTab("div1");
+			/* 
+			 * Add click events
+			 */
+			for ( var i = 0; i < nav.length; i++) {
+				nav[i].onclick = function() {
+					hideTabs();
+					showTab(this.className);
+				}
+			}
+		})();
+	</script>
 </body>
 </html>
