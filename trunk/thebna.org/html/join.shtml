@@ -50,6 +50,14 @@ h2 {
 							</p>
 						</div>
 						<div id="div1" align="center" class="tab">
+						<div align="left">
+						<p>An electronic copy of the Broadmoor Beacon will be emailed to the address on your Paypal account.
+						If you want a paper copy of the Broadmoor Beacon mailed to you instead, please enter "Paper" 
+						on the Paypal payment page under
+						"Instructions to seller:" before submitting your PayPal payment.</p>
+						<p>If you want additional email addresses to receive emails from the BNA list server,
+						please enter those addresses under "Instructions to seller:"</p>
+						</div>
 							<form action="https://www.paypal.com/cgi-bin/webscr"
 								method="post">
 								<input type="hidden" name="cmd" value="_s-xclick"> <input
